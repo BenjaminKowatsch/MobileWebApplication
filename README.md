@@ -38,7 +38,7 @@ docker-compose run backend npm test
 * `frontend/routes.js` - app routes
 * `frontend/app.vue` - main app structure/component
 
-## Projekt-Mitglieder
+## Projekt members
 Daniel Bruckner (db099)
 Benjamin Kowatsch (bk077)
 Marc Rüttler (mr144)
