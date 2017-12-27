@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId(String),
+    "username" : String,
+    "password" : String,
+    "posts" : [ 
+        {
+            "date" : NumberLong(Long),
+            "mood" : Int,
+            "emotion" : String,
+            "colour" : String,
+            "text" : String
+        }
+    ]
+}
